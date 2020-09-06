@@ -1,3 +1,6 @@
 data type learning complete 
 
 String Learnig Complted
+
+
+Forloop Completed
